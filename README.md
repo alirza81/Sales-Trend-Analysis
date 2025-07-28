@@ -17,7 +17,7 @@ This repository contains an exploratory data analysis (EDA) project on a retail 
 
 ## Example Outputs
 
-!['Smoothed Daily Sales Trend'](result\plots\Smoothed_Daily_Sales_Trend.png)
+!['Smoothed Daily Sales Trend'](result/plots/Smoothed_Daily_Sales_Trend.png)
 
 ## Tech Stack
 
